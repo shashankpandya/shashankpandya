@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋, I'm Shashank Pandya
+# I'm Shashank Pandya
 
 ## 👨‍💻 About Me
 - 💻 Full Stack Developer | JavaScript Enthusiast
