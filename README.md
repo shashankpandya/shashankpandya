@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 ![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankpandya&show_icons=true&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpandya&layout=compact)
-
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=shashankpandya&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+-->
