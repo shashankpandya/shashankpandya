@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=2000&color=A78BFA&center=true&vCenter=true&width=940&lines=Shashank+Pandya+%E2%80%94+Full+Stack+Developer;JavaScript+%7C+Node.js+%7C+React+%7C+Docker;Turning+Ideas+into+Production-Ready+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=2000&color=A78BFA&center=true&vCenter=true&width=940&lines=Shashank+Pandya+%E2%80%94+Full+Stack+Developer;JavaScript+%7C+Python+%7C+Node.js+%7C+React+%7C+AWS;Turning+Ideas+into+Production-Ready+Systems" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,9 +13,9 @@
 
 ---
 
-Full-stack developer specializing in the **JavaScript ecosystem** — building everything from React interfaces to Node.js/Express APIs and MongoDB/MySQL-backed data layers. I focus on writing systems that are easy to reason about, deploy, and extend — not just code that works today.
+Full-stack developer working across the **JavaScript and Python ecosystems** — building everything from React interfaces and Node.js/Express APIs to serverless cloud functions and AI-integrated pipelines. I focus on writing systems that are easy to reason about, deploy, and extend — not just code that works today.
 
-Currently expanding into **Docker-based workflows**, **CI/CD pipelines**, and **system design patterns** to own the full path from local development to production.
+Currently deepening expertise in **AWS serverless architecture**, **event-driven design**, and **Generative AI integration** to ship production-grade, cost-efficient applications at scale.
 
 ---
 
@@ -26,27 +26,34 @@ Currently expanding into **Docker-based workflows**, **CI/CD pipelines**, and **
 | **Frontend** | React — component architecture, state management, performance, accessibility |
 | **Backend** | Node.js + Express — RESTful API design, auth middleware, error handling, scalability |
 | **Data** | MongoDB for flexible document models; MySQL for relational integrity and complex queries |
+| **AI & Cloud** | Python serverless functions on AWS Lambda; Generative AI integration (Gemini); event-driven pipelines |
 | **Infrastructure** | Docker environments, CI/CD workflows, Linux-based deployment, Git-driven collaboration |
 
 ---
 
 ## 🚀 Featured Projects
 
-> Replace these entries with your two or three strongest projects. Use the **Problem → Solution → Impact** format — it forces specificity and shows engineering judgment.
-
-### [Project Title](https://github.com/shashankpandya/your-repo-name)
-**Problem:** What real-world inefficiency or gap does this solve?  
-**Solution:** What did you build, and what key technical decisions did you make?  
-**Tech:** `React` `Node.js` `Express` `MongoDB` `Docker`  
-**Impact:** Quantify where possible — e.g., *reduced API response time by 60%*, *onboarded X users*, *automated a process that took Y hours manually*
+### [Aira — AI Technical Interview Coach](https://github.com/shashankpandya/Aira)
+**Problem:** Students in Tier-2/3 cities across India lack access to affordable, quality technical interview preparation. Existing platforms are English-only, expensive, and require stable broadband.  
+**Solution:** Built a serverless, WhatsApp-native interview coach using a fully decoupled AWS pipeline. Lambda A ingests voice notes in Hinglish/Hindi, triggers Amazon Transcribe asynchronously, and shuts down immediately. EventBridge wakes Lambda B when transcription completes — it grades the answer with Gemini AI, generates the next adaptive question, and delivers spoken feedback via Amazon Polly. All session state lives in DynamoDB; zero app install required.  
+**Tech:** `Python` `AWS Lambda` `Amazon Transcribe` `Amazon Polly` `EventBridge` `DynamoDB` `S3` `Google Gemini` `WhatsApp Business API`  
+**Impact:** Handles 1,000+ concurrent users at ~$1.31/user/month; supports Hinglish/Hindi voice input; built for the AWS AI for Bharat Hackathon
 
 ---
 
-### [Project Title](https://github.com/shashankpandya/your-repo-name)
-**Problem:** ...  
-**Solution:** ...  
-**Tech:** `React` `Node.js` `MySQL`  
-**Impact:** ...
+### [Crypto Portfolio Tracker](https://github.com/shashankpandya/Crypto_Portfolio)
+**Problem:** Crypto investors have no simple, privacy-first way to track holdings and view performance charts without connecting to a third-party service that stores their financial data.  
+**Solution:** Built a full-stack portfolio dashboard with a React/Vite frontend, Node.js backend, and client-side IndexedDB for offline-first data persistence — no account or cloud dependency required. Integrated Chart.js for real-time visualisation and Hardhat-based smart contracts for on-chain holding verification.  
+**Tech:** `React` `Vite` `Node.js` `Solidity` `Hardhat` `Chart.js` `IndexedDB`  
+**Impact:** Fully offline-capable architecture; users retain complete ownership of their financial data with no third-party exposure
+
+---
+
+### [BuyChai — Decentralised Creator Support Platform](https://github.com/shashankpandya/BuyChai)
+**Problem:** Platforms like "Buy Me a Coffee" charge platform fees and depend on centralised payment processors, giving creators less revenue and less control over their supporters' data.  
+**Solution:** Built a decentralised alternative where supporters send ETH directly to creators via a Solidity smart contract — no intermediary, no fees. The React frontend connects to MetaMask for seamless wallet-based transactions, and the contract enforces all business logic trustlessly on-chain.  
+**Tech:** `Solidity` `Hardhat` `React` `Ethers.js` `Vercel`  
+**Impact:** Zero platform fees; trustless execution guaranteed by the smart contract; deployed live on Vercel
 
 ---
 
@@ -66,6 +73,7 @@ Currently expanding into **Docker-based workflows**, **CI/CD pipelines**, and **
 **Data & Infrastructure**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
