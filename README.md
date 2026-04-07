@@ -49,6 +49,15 @@ Currently deepening expertise in **AWS serverless architecture**, **event-driven
 
 ---
 
+### [Megalith 2025 — College Fest Event Management Platform](https://github.com/1mansri/Megalith-2025)
+**Team Project** — Built collaboratively as part of a team for Megalith, a large-scale college technical fest.  
+**Problem:** Managing hundreds of registrations, multiple events, workshops, and teams manually is chaotic — organisers need one central place to handle everything from sign-ups to certificates.  
+**Solution:** Built a full-stack event management platform where students can register, join teams, and sign up for workshops — and admins can manage everything from a dedicated dashboard. The platform handles online payments via Razorpay, sends automated email confirmations with Nodemailer, and generates certificates for participants. The entire app is server-rendered with Next.js for fast page loads.  
+**Tech:** `Next.js` `TypeScript` `React` `Tailwind CSS` `MongoDB` `Mongoose` `Razorpay` `Nodemailer`  
+**My Role:** Worked as part of a dev team — contributed to backend API routes, database schema design with Mongoose, and admin dashboard features. Collaborated using Git branching, code reviews, and shared task ownership across the team.
+
+---
+
 ### [BuyChai — Decentralised Creator Support Platform](https://github.com/shashankpandya/BuyChai)
 **Problem:** Platforms like "Buy Me a Coffee" charge platform fees and depend on centralised payment processors, giving creators less revenue and less control over their supporters' data.  
 **Solution:** Built a decentralised alternative where supporters send ETH directly to creators via a Solidity smart contract — no intermediary, no fees. The React frontend connects to MetaMask for seamless wallet-based transactions, and the contract enforces all business logic trustlessly on-chain.  
