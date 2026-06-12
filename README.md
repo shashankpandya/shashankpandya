@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=2000&color=A78BFA&center=true&vCenter=true&width=940&lines=Shashank+Pandya+%E2%80%94+Full+Stack+Developer;JavaScript+%7C+Python+%7C+Node.js+%7C+React+%7C+AWS;Turning+Ideas+into+Production-Ready+Systems" alt="Typing SVG" />
 </div>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankpandya)
