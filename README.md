@@ -480,58 +480,6 @@ Built a decentralized alternative to "Buy Me a Coffee" with zero platform fees.
 
 ---
 
-## 💼 Experience
-
-<br/>
-
-### 🤖 AI Team Lead — Aira (AI for Bharat Hackathon)
-
-**IIT Kharagpur** | *Team Lead* | *2025 - Present*
-
-> Led a cross-functional team to architect and ship a scalable AI solution under tight constraints.
-
-- Spearheaded agile sprints and ensured rapid iteration cycles based on rigorous problem framing
-- Designed an agentic AI system leveraging AWS Bedrock (Claude 3) for real-time evaluations
-- Engineered event-driven serverless architecture using Lambda, Transcribe, Polly, and LangChain
-- Owned full product lifecycle from problem framing to deployment
-- Optimized platform for high-concurrency and low-bandwidth scenarios
-
-**Skills:** `Python` `AWS Lambda` `LangChain` `Claude AI` `RAG` `EventBridge` `Serverless`
-
----
-
-### ⛓️ Blockchain Head — KodeinKGP
-
-**KodeinKGP, IIT Kharagpur** | *May 2025 - Present*
-
-> Spearheading Web3 initiatives and curriculum development for a community of 40+ members.
-
-- Organized institutional hackathons and technical workshops focused on Ethereum and Smart Contracts
-- Authored Medium articles simplifying blockchain concepts for beginners
-- Led KMeet onboarding of 40+ freshers with hands-on training sessions
-
-**Skills:** `Solidity` `Ethereum` `Smart Contracts` `Web3.js` `Technical Writing`
-
----
-
-### 🌐 Core Team Member — Megalith Web Team
-
-**Megalith, IIT Kharagpur** | *July 2024 - May 2025*
-
-> Built the official festival portal processing registrations for thousands of users.
-
-- Coordinated a 15-member Web Team delivering 10 major fest events
-- Orchestrated cross-team workflows supporting 500+ active users
-- Achieved 25% participation growth through improved UX and performance
-
-**Skills:** `Next.js` `React` `Node.js` `MongoDB` `Team Leadership` `Agile`
-
-<br/>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#-)
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -634,7 +582,7 @@ Built a decentralized alternative to "Buy Me a Coffee" with zero platform fees.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&ring=true&fire=true" alt="GitHub Stats">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&ring=true&fire=true)
 
 </div>
 
@@ -642,9 +590,9 @@ Built a decentralized alternative to "Buy Me a Coffee" with zero platform fees.
 
 <div align="center">
 
-| GitHub Stats | Top Languages |
+| | |
 |:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true" alt="Stats"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpandya&theme=midnight_exodus&layout=compact&hide_border=true&langs_count=8" alt="Top Langs"> |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpandya&theme=midnight_exodus&layout=compact&hide_border=true&langs_count=6) |
 
 </div>
 
@@ -652,13 +600,11 @@ Built a decentralized alternative to "Buy Me a Coffee" with zero platform fees.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=shashankpandya&theme=midnight_exodus&hide_border=true&type=svg&height=150&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" alt="GitHub Streak">
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashankpandya&theme=midnight_exodus&hide_border=true&type=svg&height=120&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED)
 
 </div>
 
 <br/>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#-)
 
 ---
 
@@ -666,13 +612,11 @@ Built a decentralized alternative to "Buy Me a Coffee" with zero platform fees.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shashankpandya&theme=midnight_exodus&column=8&margin-w=15&margin-h=15" alt="GitHub Trophy">
+[![Trophy](https://github-profile-trophy.vercel.app/?username=shashankpandya&theme=midnight_exodus&column=6&margin-w=15&margin-h=15)](https://github.com/shashankpandya)
 
 </div>
 
 <br/>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#-)
 
 ---
 
@@ -680,13 +624,11 @@ Built a decentralized alternative to "Buy Me a Coffee" with zero platform fees.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankpandya&theme=midnight_exodus&hide_border=true&area=true&line=7C3AED&point=FF6B6B&color=7C3AED" alt="Activity Graph">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shashankpandya&theme=midnight_exodus&hide_border=true&area=true&line=7C3AED&point=FF6B6B)](https://github.com/shashankpandya)
 
 </div>
 
 <br/>
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#-)
 
 ---
 
@@ -694,7 +636,7 @@ Built a decentralized alternative to "Buy Me a Coffee" with zero platform fees.
 
 <div align="center">
 
-<img src="https://github.com/shashankpandya/shashankpandya/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+![Snake](https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -775,7 +717,7 @@ open_to:
 
 <div align="center">
 
-_Built with ❤️ and ☕ by **Shashank Pandya**_
+_Built by **Shashank Pandya**_
 
 </div>
 
