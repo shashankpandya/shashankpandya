@@ -3,7 +3,7 @@
 </div>
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankpandya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/shashankpandya](https://www.linkedin.com/in/shashank-pandya-213366287/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://portfolio-shashankpandya.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pandyashashank1@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=shashankpandya&label=Views&color=blueviolet&style=flat-square)
