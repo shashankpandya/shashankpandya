@@ -1,39 +1,37 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🚀 SHASHANK PANDYA — AI/ML Engineer & Full Stack Developer
-     IIT Kharagpur • Building Intelligent Systems at Scale
-     ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+   SHASHANK PANDYA — AI/ML Engineer & Full Stack Developer
+   IIT Kharagpur • Building Intelligent Systems at Scale
+   ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Animated Banner -->
+<!-- Profile Photo & Name -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=280&section=header&text=SHASHANK%20PANDYA&fontSize=60&fontColor=ffffff&animation=blinking&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20IIT%20Kharagpur&descSize=16&descAlign=50">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=wave&color=4F46E5&height=280&section=header&text=SHASHANK%20PANDYA&fontSize=60&fontColor=ffffff&animation=blinking&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20IIT%20Kharagpur&descSize=16&descAlign=50">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=280&section=header&text=SHASHANK%20PANDYA&fontSize=60&fontColor=ffffff&animation=blinking&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20IIT%20Kharagpur&descSize=16&descAlign=50" alt="Shashank Pandya">
-  </picture>
+  <img src="https://github.com/shashankpandya.png" alt="Shashank Pandya" width="180" height="180" style="border-radius: 50%; border: 5px solid #7C3AED; box-shadow: 0 0 30px rgba(124, 58, 237, 0.3);">
 </p>
 
-<!-- Dynamic Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&multiline=true&repeat=false&width=800&lines=Building%20Intelligent%20Systems%20%E2%80%A2%20Problem%20Solver%20%E2%80%A2%20AI%20Engineer" alt="Typing Effect">
+<!-- Name with Gradient Effect -->
+<h1 align="center" style="margin: 20px 0; font-size: 3em; background: linear-gradient(135deg, #7C3AED, #4F46E5, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 800;">
+  SHASHANK PANDYA
+</h1>
+
+<!-- Dynamic Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&multiline=true&repeat=false&width=700&lines=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20IIT%20Kharagpur" alt="Typing Effect">
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🏆 QUICK STATS BAR
-     ═══════════════════════════════════════════════════════════════════════════ -->
+---
 
+<!-- Quick Stats Table -->
 <div align="center">
 
-| <img src="https://img.shields.io/badge/B.Tech-IIT%20Kharagpur-F04323?style=for-the-badge&logo=academia&logoColor=white" alt="IIT Kharagpur"> | <img src="https://img.shields.io/badge/CGPA-7.91%2F10-10A19D?style=for-the-badge&logoColor=white" alt="CGPA"> | <img src="https://img.shields.io/badge/Civil%20Engineering-2E86AB?style=for-the-badge&logoColor=white" alt="Branch"> | <img src="https://img.shields.io/badge/Location-Kharagpur-00D9FF?style=for-the-badge&logoColor=white" alt="Location"> |
+| <img src="https://img.shields.io/badge/B.Tech-IIT%20Kharagpur-F04323?style=for-the-badge&logo=academia&logoColor=white" alt="IIT Kharagpur"> | <img src="https://img.shields.io/badge/CGPA-7.91%2F10-10A19D?style=for-the-badge" alt="CGPA"> | <img src="https://img.shields.io/badge/Branch-Civil%20Engineering-2E86AB?style=for-the-badge" alt="Branch"> | <img src="https://img.shields.io/badge/Location-Kharagpur%2C%20WB-00D9FF?style=for-the-badge" alt="Location"> |
 |:---:|:---:|:---:|:---:|
 
 </div>
 
-<br>
-
-<!-- Social Links Bar -->
-<div align="center">
+<!-- Social Links -->
+<div align="center" style="margin: 25px 0;">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-shashankpandya.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankpandya)
@@ -43,44 +41,33 @@
 
 </div>
 
-<!-- Profile Stats -->
+<!-- Profile Metrics -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shashankpandya&label=Profile%20Views&color=7C3AED&style=for-the-badge&logo=eye)
-![Followers](https://img.shields.io/github/followers/shashankpandya?color=7C3AED&style=for-the-badge&logo=heart)
-![Stars](https://img.shields.io/github/stars/shashankpandya?color=7C3AED&style=for-the-badge&logo=star)
-![Commits](https://img.shields.io/github/commit-activity/t/shashankpandya?color=7C3AED&style=for-the-badge&logo=git-merge)
+![Profile Views](https://komarev.com/ghpvc/?username=shashankpandya&label=Views&color=7C3AED&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/shashankpandya?color=7C3AED&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/shashankpandya?color=7C3AED&style=for-the-badge)
+![Commits](https://img.shields.io/github/commit-activity/t/shashankpandya?color=7C3AED&style=for-the-badge)
 
 </div>
 
 ---
 
-<div align="center">
-
-![Separator](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/separators/gradient/3.png)
-
-</div>
-
 ## 📝 About Me
-
-<div align="center">
-
-> _"I transform complex problems into elegant, scalable solutions."_
-
-</div>
 
 <div align="center">
 
 ```javascript
 const shashank = {
-    role: "AI/ML Engineer & Full Stack Developer",
-    education: "IIT Kharagpur | B.Tech Civil Engineering",
-    passion: "Building intelligent systems at scale",
-    expertise: ["Generative AI", "LLMs", "RAG Systems", "Agentic AI"],
-    languages: ["Python", "C++", "JavaScript", "Solidity", "SQL"],
-    frameworks: ["React", "Next.js", "Node.js", "LangChain"],
-    currently_learning: ["Kubernetes", "Advanced MLOps", "Distributed Systems"],
-    open_to: ["AI/ML Roles", "Backend Engineering", "Product Development"]
+  role: "AI/ML Engineer & Full Stack Developer",
+  education: "IIT Kharagpur | B.Tech Civil Engineering",
+  cgpa: "7.91/10",
+  passion: "Building intelligent systems at scale",
+  expertise: ["Generative AI", "LLMs", "RAG Systems", "Agentic AI", "LangChain"],
+  languages: ["Python", "C++", "JavaScript", "Solidity", "SQL"],
+  frameworks: ["React", "Next.js", "Node.js", "PyTorch"],
+  currently_learning: ["Kubernetes", "Advanced MLOps", "Distributed Systems"],
+  open_to: ["AI/ML Roles", "Backend Engineering", "Product Development"]
 };
 ```
 
@@ -88,17 +75,15 @@ const shashank = {
 
 <br>
 
-I am a **passionate Full Stack Developer and AI/ML enthusiast** currently pursuing my **B.Tech from IIT Kharagpur**. I specialize in building **production-grade AI systems**, **scalable web applications**, and **intelligent automation solutions**.
-
-With a strong foundation in **Data Structures & Algorithms**, **Object-Oriented Programming**, and **System Design**, I bring a **product engineering mindset** to every project I undertake.
+I am a **passionate Full Stack Developer and AI/ML enthusiast** pursuing my **B.Tech from IIT Kharagpur**. I specialize in building **production-grade AI systems**, **scalable web applications**, and **intelligent automation solutions**.
 
 <div align="center">
 
-| **AI & Machine Learning** | **Web Development** | **Cloud & DevOps** | **Web3** |
+| 🔮 AI & ML | 🌐 Web Dev | ☁️ Cloud & DevOps | ⛓️ Blockchain |
 |:---:|:---:|:---:|:---:|
-| 🔮 LLMs & RAG Systems | 🌐 React & Next.js | ☁️ AWS & GCP | ⛓️ Solidity |
-| 🤖 Agentic AI Workflows | 🚀 Node.js & Express | 🐳 Docker & K8s | 📱 Smart Contracts |
-| 🧠 PyTorch & TensorFlow | 📊 REST APIs | 🔄 CI/CD | 🌿 DeFi Protocols |
+| LLMs & RAG | React & Next.js | AWS & Docker | Solidity |
+| Agentic AI | Node.js & Express | Kubernetes | Smart Contracts |
+| PyTorch | REST APIs | CI/CD | DeFi |
 
 </div>
 
@@ -106,101 +91,55 @@ With a strong foundation in **Data Structures & Algorithms**, **Object-Oriented 
 
 <div align="center">
 
-**Open To:** `Full-time Opportunities` `AI/ML Engineering` `Backend Development` `Product Roles` `Research Internships`
+**Open To:** `AI/ML Engineering` `Backend Development` `Product Engineering` `Research Internships`
 
 </div>
 
 ---
-
-<div align="center">
-
-![Separator](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/separators/gradient/3.png)
-
-</div>
-
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🔥 Core Technologies
-
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,sql" />
 
-</div>
-
-<div align="center">
-
 ### 🌐 Frontend & Backend
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" />
 
-</div>
-
-<div align="center">
-
 ### 🗄️ Databases & Cloud
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,docker,nginx" />
 
-</div>
-
-<div align="center">
-
 ### 🤖 AI/ML & Tools
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,linux,vercel" />
 
-</div>
-
-<div align="center">
-
 ### 🔗 Blockchain
-
 <img src="https://skillicons.dev/icons?i=solidity,ethereum" />
 
 </div>
 
-<br>
-
-### 📜 AI/ML Certifications & Courses
-
+### 📜 Certifications
 <div align="center">
 
-[![Generative AI](https://img.shields.io/badge/Generative%20AI-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Data Science](https://img.shields.io/badge/Data%20Science-IBM%2FCoursera-FF6F00?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org)
-[![SQL Essentials](https://img.shields.io/badge/SQL-Newton%20School-4285F4?style=for-the-badge&logoColor=white)](https://)
-[![Web Development](https://img.shields.io/badge/Web%20Dev-IBM%20SkillsBuild-0077B5?style=for-the-badge&logo=ibm&logoColor=white)](https://)
-
-</div>
-
-<div align="center">
-
-### 🏅 NCC Certifications
-
-<img src="https://img.shields.io/badge/NCC-A%20Certificate-FFD700?style=for-the-badge&logoColor=black" alt="NCC A Certificate">
-<img src="https://img.shields.io/badge/NCC-B%20Certificate-FFD700?style=for-the-badge&logoColor=black" alt="NCC B Certificate">
+[![Generative AI](https://img.shields.io/badge/Generative%20AI-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Data Science](https://img.shields.io/badge/Data%20Science-Coursera-FF6F00?style=for-the-badge&logo=coursera&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-Newton%20School-4285F4?style=for-the-badge)]()
+[![NCC A](https://img.shields.io/badge/NCC-A%20Certificate-FFD700?style=for-the-badge&logoColor=black)]()
+[![NCC B](https://img.shields.io/badge/NCC-B%20Certificate-FFD700?style=for-the-badge&logoColor=black)]()
 
 </div>
 
 ---
-
-<div align="center">
-
-![Separator](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/separators/gradient/3.png)
-
-</div>
-
 
 ## 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/shashankpandya"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-<a href="https://www.codechef.com/users/shashankpandya"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
-<a href="https://codeforces.com/profile/pandyashashank1"><img src="https://img.shields.io/badge/Codeforces-1F8DDB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
-<a href="https://auth.geeksforgeeks.org/user/shashankpandya/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
-<a href="https://www.hackerrank.com/profile/shashankpandya"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"></a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/shashankpandya)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shashankpandya)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8DDB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/pandyashashank1)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/shashankpandya/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/shashankpandya)
 
 </div>
 
@@ -208,31 +147,25 @@ With a strong foundation in **Data Structures & Algorithms**, **Object-Oriented 
 
 <div align="center">
 
-| Platform | Handle | Rating | Badge |
-|:--------:|:------:|:------:|:-----:|
-| **LeetCode** | @shashankpandya | — | <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square" alt="LeetCode"> |
-| **CodeChef** | @shashankpandya | ⭐⭐⭐ (1709) | <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square" alt="CodeChef"> |
-| **Codeforces** | @pandyashashank1 | Pupil (1390+) | <img src="https://img.shields.io/badge/Codeforces-1F8DDB?style=flat-square" alt="Codeforces"> |
-| **GeeksforGeeks** | @shashankpandya | — | <img src="https://img.shields.io/badge/GfG-0F9D58?style=flat-square" alt="GfG"> |
-| **HackerRank** | @shashankpandya | — | <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square" alt="HR"> |
+| Platform | Handle | Rating |
+|:--------:|:------:|:------:|
+| **LeetCode** | @shashankpandya | — |
+| **CodeChef** | @shashankpandya | ⭐⭐⭐ (1709) |
+| **Codeforces** | @pandyashashank1 | Pupil (1390+) |
+| **GeeksforGeeks** | @shashankpandya | — |
+| **HackerRank** | @shashankpandya | — |
 
 </div>
 
 ---
 
-<div align="center">
-
-![Separator](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/separators/gradient/3.png)
-
-</div>
 
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Main Stats Card - Using reliable API instance -->
-![GitHub Stats](https://github-readme-stats.jogruber.de/api/?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&ring=true&fire=true)
+![GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 </div>
 
@@ -242,20 +175,9 @@ With a strong foundation in **Data Structures & Algorithms**, **Object-Oriented 
 
 | | |
 |:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.jogruber.de/api?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats.jogruber.de/api/top-langs/?username=shashankpandya&theme=midnight_exodus&layout=compact&hide_border=true&langs_count=8&hide=html,css) |
+| ![GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=shashankpandya&theme=midnight_exodus&layout=compact&hide_border=true&langs_count=6&hide=html,css) |
 
 </div>
-
-<br>
-
-<div align="center">
-
-<!-- GitHub Streak - Using reliable instance -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=shashankpandya&theme=midnight-exodus&hide_border=true&type=svg&height=140&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideNums=7C3AED&sideLabels=FF6B6B&dates=7C3AED)
-
-</div>
-
-<br>
 
 ---
 
@@ -263,7 +185,7 @@ With a strong foundation in **Data Structures & Algorithms**, **Object-Oriented 
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=shashankpandya&theme=midnight_exodus&column=6&margin-w=15&margin-h=15)](https://github.com/shashankpandya)
+[![Trophy](https://github-trophies.vercel.app/?username=shashankpandya&theme=radical&column=6&margin-w=15&margin-h=15)](https://github.com/shashankpandya)
 
 </div>
 
@@ -283,11 +205,6 @@ With a strong foundation in **Data Structures & Algorithms**, **Object-Oriented 
 
 ---
 
-<div align="center">
-
-![Separator](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/separators/gradient/3.png)
-
-</div>
 
 
 ## 🎯 Current Focus
@@ -307,17 +224,7 @@ With a strong foundation in **Data Structures & Algorithms**, **Object-Oriented 
 
 <div align="center">
 
-### 🧠 My Expertise Radar
-
-<img src="https://github-readme-stats.jogruber.de/api/top-langs/?username=shashankpandya&theme=midnight_exodus&hide_border=true&layout=donut&langs_count=8&hide=html,css" width="45%" alt="Top Languages"> <img src="https://github-readme-stats.jogruber.de/api/?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="50%" alt="GitHub Stats">
-
-</div>
-
-<br>
-
-### 🎯 Areas of Excellence
-
-<div align="center">
+### 🧠 Expertise Overview
 
 | **🤖 AI / ML** | **💻 Software Dev** | **⛓️ Blockchain** |
 |:---:|:---:|:---:|
@@ -338,11 +245,6 @@ With a strong foundation in **Data Structures & Algorithms**, **Object-Oriented 
 
 ---
 
-<div align="center">
-
-![Separator](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/separators/gradient/3.png)
-
-</div>
 
 
 ## 🐍 Contribution Snake
@@ -353,37 +255,28 @@ With a strong foundation in **Data Structures & Algorithms**, **Object-Oriented 
 
 </div>
 
-> 🐍 *The snake that eats my contributions - generated automatically via GitHub Actions*
+> 🐍 *The snake that eats my contributions*
 
 ---
-
-<div align="center">
-
-![Separator](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/separators/gradient/3.png)
-
-</div>
-
 
 ## 📬 Connect With Me
 
 <div align="center">
 
-<a href="mailto:pandyashashank1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://linkedin.com/in/shashankpandya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/shashankpandya"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://portfolio-shashankpandya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-<a href="https://twitter.com/shashankpandya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandyashashank1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankpandya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashankpandya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-shashankpandya.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shashankpandya)
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=100&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20build%20something%20amazing.&fontSize=16&fontColor=ffffff&animation=blinking" alt="Footer Wave">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=80&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20build%20something%20amazing.&fontSize=14&fontColor=ffffff&animation=blinking" alt="Footer">
 </p>
 
 </div>
@@ -396,19 +289,8 @@ _Built with ❤️ by **Shashank Pandya**_
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shashankpandya&label=Total%20Profile%20Views&color=7C3AED&style=flat-square&logo=eye)
-![Last Updated](https://img.shields.io/badge/Updated-July%202026-7C3AED?style=flat-square&logo=calendar)
-![Status](https://img.shields.io/badge/Status-Active-10B981?style=flat-square&logo=vercel)
+![Profile Views](https://komarev.com/ghpvc/?username=shashankpandya&label=Total%20Profile%20Views&color=7C3AED&style=flat-square)
+![Last Updated](https://img.shields.io/badge/Updated-July%202026-7C3AED?style=flat-square)
 
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     Thanks for reading! Here's a fun fact about this README:
-     - Generated with ❤️ for recruiters and fellow developers
-     - Stats auto-update via reliable API instances
-     - Snake animation runs daily via GitHub Actions
-     - Theme: Modern dark mode with purple/violet accents
-     ═══════════════════════════════════════════════════════════════════════════ -->
 
