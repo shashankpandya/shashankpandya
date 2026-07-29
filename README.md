@@ -1,37 +1,45 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════
-   SHASHANK PANDYA — AI/ML Engineer & Full Stack Developer
-   IIT Kharagpur • Building Intelligent Systems at Scale
-   ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════════════════════
+   🚀 SHASHANK PANDYA — AI/ML Engineer & Full Stack Developer
+   IIT Kharagpur | Building Intelligent Systems at Scale
+   ════════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- Profile Photo & Name -->
+<!-- Profile Photo with Glow Effect -->
 <p align="center">
-  <img src="https://github.com/shashankpandya.png" alt="Shashank Pandya" width="180" height="180" style="border-radius: 50%; border: 5px solid #7C3AED; box-shadow: 0 0 30px rgba(124, 58, 237, 0.3);">
+  <img src="https://avatars.githubusercontent.com/u/146766254?v=4" 
+       alt="Shashank Pandya" 
+       width="180" 
+       height="180" 
+       style="border-radius: 50%; border: 6px solid #7C3AED; box-shadow: 0 0 40px rgba(124, 58, 237, 0.5), 0 0 80px rgba(124, 58, 237, 0.2);">
 </p>
 
-<!-- Name with Gradient Effect -->
-<h1 align="center" style="margin: 20px 0; font-size: 3em; background: linear-gradient(135deg, #7C3AED, #4F46E5, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: 800;">
-  SHASHANK PANDYA
+<!-- Name with Gradient -->
+<h1 align="center" style="margin: 15px 0 10px 0; font-size: 2.8em; font-weight: 800; letter-spacing: 2px;">
+  <span style="background: linear-gradient(135deg, #7C3AED 0%, #4F46E5 50%, #FF6B6B 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    SHASHANK PANDYA
+  </span>
 </h1>
 
-<!-- Dynamic Subtitle -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7C3AED&multiline=true&repeat=false&width=700&lines=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20IIT%20Kharagpur" alt="Typing Effect">
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=700&color=7C3AED&multiline=false&width=550&height=30&lines=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20IIT%20Kharagpur" alt="Typing Effect">
 
 </div>
 
 ---
 
-<!-- Quick Stats Table -->
-<div align="center">
+<!-- Education & Location Badges -->
+<div align="center" style="margin: 20px 0;">
 
-| <img src="https://img.shields.io/badge/B.Tech-IIT%20Kharagpur-F04323?style=for-the-badge&logo=academia&logoColor=white" alt="IIT Kharagpur"> | <img src="https://img.shields.io/badge/CGPA-7.91%2F10-10A19D?style=for-the-badge" alt="CGPA"> | <img src="https://img.shields.io/badge/Branch-Civil%20Engineering-2E86AB?style=for-the-badge" alt="Branch"> | <img src="https://img.shields.io/badge/Location-Kharagpur%2C%20WB-00D9FF?style=for-the-badge" alt="Location"> |
-|:---:|:---:|:---:|:---:|
+[![IIT Kharagpur](https://img.shields.io/badge/-IIT%20Kharagpur-F04323?style=for-the-badge&logo=academia&logoColor=white)](https://www.iitkgp.ac.in/)
+[![B.Tech Civil Engineering](https://img.shields.io/badge/Civil%20Engineering-2E86AB?style=for-the-badge&logoColor=white)]()
+[![CGPA 7.91/10](https://img.shields.io/badge/CGPA-7.91%2F10-10A19D?style=for-the-badge&logoColor=white)]()
+[![Kharagpur, WB](https://img.shields.io/badge/-Kharagpur%2C%20WB-00D9FF?style=for-the-badge&logoColor=white)]()
 
 </div>
 
 <!-- Social Links -->
-<div align="center" style="margin: 25px 0;">
+<div align="center" style="margin: 20px 0;">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-shashankpandya.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shashankpandya)
@@ -44,10 +52,10 @@
 <!-- Profile Metrics -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shashankpandya&label=Views&color=7C3AED&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/shashankpandya?color=7C3AED&style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/shashankpandya?color=7C3AED&style=for-the-badge)
-![Commits](https://img.shields.io/github/commit-activity/t/shashankpandya?color=7C3AED&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=shashankpandya&label=Profile%20Views&color=7C3AED&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/shashankpandya?color=7C3AED&style=for-the-badge&logo=heart)
+![Stars](https://img.shields.io/github/stars/shashankpandya?color=7C3AED&style=for-the-badge&logo=star)
+![Commits](https://img.shields.io/github/commit-activity/t/shashankpandya?color=7C3AED&style=for-the-badge&logo=git)
 
 </div>
 
@@ -73,25 +81,15 @@ const shashank = {
 
 </div>
 
-<br>
-
 I am a **passionate Full Stack Developer and AI/ML enthusiast** pursuing my **B.Tech from IIT Kharagpur**. I specialize in building **production-grade AI systems**, **scalable web applications**, and **intelligent automation solutions**.
 
 <div align="center">
 
 | 🔮 AI & ML | 🌐 Web Dev | ☁️ Cloud & DevOps | ⛓️ Blockchain |
 |:---:|:---:|:---:|:---:|
-| LLMs & RAG | React & Next.js | AWS & Docker | Solidity |
+| LLMs & RAG Systems | React & Next.js | AWS & Docker | Solidity |
 | Agentic AI | Node.js & Express | Kubernetes | Smart Contracts |
-| PyTorch | REST APIs | CI/CD | DeFi |
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Open To:** `AI/ML Engineering` `Backend Development` `Product Engineering` `Research Internships`
+| PyTorch & TensorFlow | REST APIs | CI/CD Pipelines | DeFi Protocols |
 
 </div>
 
@@ -101,20 +99,51 @@ I am a **passionate Full Stack Developer and AI/ML enthusiast** pursuing my **B.
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,sql" />
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="60" height="60" style="padding: 5px;"/>
+</p>
 
 ### 🌐 Frontend & Backend
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="padding: 5px;"/>
+</p>
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,docker,nginx" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60" style="padding: 5px;"/>
+</p>
 
 ### 🤖 AI/ML & Tools
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,git,linux,vercel" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="60" height="60" style="padding: 5px;"/>
+</p>
 
-### 🔗 Blockchain
-<img src="https://skillicons.dev/icons?i=solidity,ethereum" />
+### ⛓️ Blockchain
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" width="60" height="60" style="padding: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="60" height="60" style="padding: 5px;"/>
+</p>
 
 </div>
 
@@ -123,13 +152,14 @@ I am a **passionate Full Stack Developer and AI/ML enthusiast** pursuing my **B.
 
 [![Generative AI](https://img.shields.io/badge/Generative%20AI-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Data Science](https://img.shields.io/badge/Data%20Science-Coursera-FF6F00?style=for-the-badge&logo=coursera&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/SQL-Newton%20School-4285F4?style=for-the-badge)]()
-[![NCC A](https://img.shields.io/badge/NCC-A%20Certificate-FFD700?style=for-the-badge&logoColor=black)]()
-[![NCC B](https://img.shields.io/badge/NCC-B%20Certificate-FFD700?style=for-the-badge&logoColor=black)]()
+[![NCC A Certificate](https://img.shields.io/badge/NCC-A%20Certificate-FFD700?style=for-the-badge&logoColor=black)]()
+[![NCC B Certificate](https://img.shields.io/badge/NCC-B%20Certificate-FFD700?style=for-the-badge&logoColor=black)]()
 
 </div>
 
 ---
+
+
 
 ## 💻 Coding Profiles
 
@@ -159,13 +189,11 @@ I am a **passionate Full Stack Developer and AI/ML enthusiast** pursuing my **B.
 
 ---
 
-
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1b26)
 
 </div>
 
@@ -175,7 +203,7 @@ I am a **passionate Full Stack Developer and AI/ML enthusiast** pursuing my **B.
 
 | | |
 |:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true) | ![Top Langs](https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=shashankpandya&theme=midnight_exodus&layout=compact&hide_border=true&langs_count=6&hide=html,css) |
+| ![GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=shashankpandya&theme=midnight_exodus&show_icons=true&hide_border=true&count_private=true&bg_color=1a1b26) | ![Top Languages](https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=shashankpandya&theme=midnight_exodus&layout=compact&hide_border=true&langs_count=6&hide=html,css&bg_color=1a1b26) |
 
 </div>
 
@@ -189,21 +217,15 @@ I am a **passionate Full Stack Developer and AI/ML enthusiast** pursuing my **B.
 
 </div>
 
-<br>
-
 ---
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shashankpandya&theme=midnight_exodus&hide_border=true&area=true&line=7C3AED&point=FF6B6B)](https://github.com/shashankpandya)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shashankpandya&theme=midnight_exodus&hide_border=true&area=true&line=7C3AED&point=FF6B6B&bg_color=1a1b26)](https://github.com/shashankpandya)
 
 </div>
-
-<br>
-
----
 
 
 
@@ -224,7 +246,7 @@ I am a **passionate Full Stack Developer and AI/ML enthusiast** pursuing my **B.
 
 <div align="center">
 
-### 🧠 Expertise Overview
+### 🧠 Expertise Areas
 
 | **🤖 AI / ML** | **💻 Software Dev** | **⛓️ Blockchain** |
 |:---:|:---:|:---:|
@@ -245,8 +267,6 @@ I am a **passionate Full Stack Developer and AI/ML enthusiast** pursuing my **B.
 
 ---
 
-
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -254,8 +274,6 @@ I am a **passionate Full Stack Developer and AI/ML enthusiast** pursuing my **B.
 ![Snake Animation](https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-contribution-grid-snake.svg)
 
 </div>
-
-> 🐍 *The snake that eats my contributions*
 
 ---
 
@@ -272,14 +290,6 @@ I am a **passionate Full Stack Developer and AI/ML enthusiast** pursuing my **B.
 </div>
 
 ---
-
-<div align="center">
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=7C3AED&height=80&section=footer&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20build%20something%20amazing.&fontSize=14&fontColor=ffffff&animation=blinking" alt="Footer">
-</p>
-
-</div>
 
 <div align="center">
 

@@ -2,23 +2,37 @@ name: Generate Contribution Snake
 
 on:
   schedule:
+    # Run at midnight UTC every day
     - cron: "0 0 * * *"
+  # Allow manual trigger
   workflow_dispatch:
+  # Run on push to update immediately
+  push:
+    branches:
+      - main
+      - master
+      - openhands
 
 permissions:
   contents: write
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     
     steps:
+      # Checkout with full history for contributions
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
 
+      # Generate the snake SVG
       - name: Generate contribution snake
         uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: ${{ github.repository_owner }}
           output_file: github-contribution-grid-snake.svg
@@ -26,22 +40,24 @@ jobs:
           svg_height: 300
           color_left: "#7C3AED"
           color_right: "#4F46E5"
-          color_grid: "#1f1b2e"
+          color_grid: "#1a1b26"
           color_head: "#FF6B6B"
           eat_enabled: true
-          eat_speed: 80
+          eat_speed: 100
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake-animation
-          path: github-contribution-grid-snake.svg
-          retention-days: 1
-
-      - name: Push to repository
+      # Create output directory and commit
+      - name: Commit snake animation
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # Add the SVG
           git add github-contribution-grid-snake.svg
-          git diff --staged --quiet || git commit -m "🐍 Update contribution snake animation [skip ci]"
-          git push origin ${{ github.ref_name }}
+          
+          # Check if there's anything to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🐍 Update contribution snake animation [skip ci]"
+            git push
+          fi
