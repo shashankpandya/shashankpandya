@@ -113,6 +113,6 @@ Currently deepening expertise in **AWS serverless architecture**, **event-driven
 <div align="center">
   <strong>Open to full-time roles and meaningful collaborations.</strong><br/>
   <a href="mailto:pandyashashank1@gmail.com">pandyashashank1@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/shashankpandya">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/shashank-pandya-213366287/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://portfolio-shashankpandya.vercel.app/">Portfolio</a>
 </div>
