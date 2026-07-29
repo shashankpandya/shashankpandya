@@ -1,0 +1,61 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    # Run every day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          # GitHub user to generate the snake for
+          github_user_name: ${{ github.repository_owner }}
+          # Output file path
+          output_file: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg
+          # Theme configuration - dark mode
+          svg_width: 900
+          svg_height: 300
+          # Dark theme colors
+          color_left: "#7C3AED"
+          color_right: "#4F46E5"
+          color_grid: "#1f1f2e"
+          color_head: "#FF6B6B"
+          # Eating animation
+          eat_enabled: true
+          eat_speed: 80
+
+      - name: Upload snake animation
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake-animation
+          path: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg
+          retention-days: 1
+
+      - name: Push snake animation to repository
+        run: |
+          # Commit the snake SVG files
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Add and commit
+          git add github-contribution-grid-snake*.svg
+          git diff --staged --quiet || git commit -m "🐍 Auto-update: contribution snake animation [skip ci]"
+          git push
