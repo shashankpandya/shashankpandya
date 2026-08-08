@@ -248,11 +248,11 @@ Great engineers are more than their stack — here's the stuff that keeps me hum
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shashankpandya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&title_color=A78BFA&icon_color=A78BFA" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashankpandya&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=shashankpandya&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak" />
   <br/><br/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpandya&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=A78BFA" alt="Top Languages" />
-  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=shashankpandya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title=A78BFA" alt="GitHub Trophies" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashankpandya&theme=tokyonight&hide_border=true" alt="Top Languages by Repo" />
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashankpandya&theme=tokyonight&hide_border=true" alt="Most Productive Time" />
 </div>
 
 <br/>
@@ -261,12 +261,20 @@ Great engineers are more than their stack — here's the stuff that keeps me hum
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankpandya&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=FFFFFF" alt="Contribution Graph" width="98%"/>
 </div>
 
+<br/>
+
+<div align="center">
+
+### 🏅 GitHub Achievements
+
+[![Stars](https://img.shields.io/github/stars/shashankpandya?style=for-the-badge&logo=github&label=Total%20Stars%20Received&color=A78BFA)](https://github.com/shashankpandya?tab=repositories&sort=stargazers)
+[![Followers](https://img.shields.io/github/followers/shashankpandya?style=for-the-badge&logo=github&label=Followers&color=A78BFA)](https://github.com/shashankpandya?tab=followers)
+[![Pull Requests](https://img.shields.io/badge/-Pull%20Requests-181717?style=for-the-badge&logo=github)](https://github.com/shashankpandya?tab=overview&from=2024-01-01)
+[![Issues](https://img.shields.io/badge/-Issues%20Opened-181717?style=for-the-badge&logo=github)](https://github.com/shashankpandya?tab=overview&from=2024-01-01)
+
+</div>
+
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake.svg" />
-</picture>
 
 ## 💭 A Thought I Keep Coming Back To
 
@@ -295,6 +303,16 @@ I'm **open to full-time roles and meaningful collaborations** — especially aro
 </a>
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake.svg" />
+</picture>
 
 ---
 
