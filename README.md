@@ -262,6 +262,11 @@ Great engineers are more than their stack — here's the stuff that keeps me hum
 </div>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake.svg" />
+</picture>
 
 ## 💭 A Thought I Keep Coming Back To
 
