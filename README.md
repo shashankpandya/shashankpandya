@@ -318,6 +318,4 @@ I'm **open to full-time roles and meaningful collaborations** — especially aro
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,22,25&height=120&section=footer" width="100%" alt="Footer wave"/>
-  <br/>
-  <sub>⭐ If something here resonated, consider dropping a star on one of my repos — it means a lot.</sub>
 </div>
