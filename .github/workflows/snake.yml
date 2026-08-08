@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+on:
+  # Run automatically every day at midnight UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allows you to run it manually from the Actions tab
+  workflow_dispatch:
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Generate the snake SVGs
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: shashankpandya
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-light.svg?palette=github-light
+      # 2. Push generated files to the `output` branch
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          keep_files: true
