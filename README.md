@@ -6,7 +6,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,22,25&height=220&section=header&text=SHASHANK%20PANDYA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20GenAI%20Engineer%20%C2%B7%20IIT%20Kharagpur&descSize=18&descAlignY=58&descColor=ffffff" width="100%" alt="Header banner"/>
 </div>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=940&height=100&lines=Building%20production-grade%20systems%20with%20%E2%9A%99%EF%B8%8F%20Node.js%20%26%20React;Shipping%20GenAI%20products%20on%20%E2%98%81%EF%B8%8F%20AWS%20Serverless;Cracking%20DSA%20%E2%9A%96%EF%B8%8F%20%E2%80%94%20and%20growing%20the%20Web3%20community" alt="Typing SVG" />
 </div>
@@ -205,6 +204,8 @@ A trustless alternative to "Buy Me a Coffee" — supporters send **ETH** straigh
   <img src="https://img.shields.io/badge/Logic-100%25_on--chain-22C55E?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Live_on_Vercel-22C55E?style=flat-square" />
 </p>
+
+</div>
 
 ---
 
