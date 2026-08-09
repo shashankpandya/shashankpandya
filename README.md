@@ -40,7 +40,7 @@ const shashank = {
 
 I'm a full-stack developer at **IIT Kharagpur** — but the "Civil Engineering" degree is the plot twist, not the main story. Most of my time goes into **event-driven backends**, **GenAI products on AWS**, and **Web3 community building**. I care more about systems that *hold up in production at 1k+ concurrent users* than code that just runs on my machine.
 
-When I'm not pushing to `main`, you'll find me on **CodeChef** grinding rated contests, mentoring freshers in blockchain at **KodeinKGP**, or running pick-up games on the hall court.
+When I'm not pushing to `main`, you'll find me on **Leetcode** grinding rated contests, Exploring things in blockchain, or running pick-up games on the hall court.
 
 ---
 
