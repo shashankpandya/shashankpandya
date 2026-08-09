@@ -32,9 +32,9 @@ const shashank = {
   degree     : "B.Tech (Hons.) Civil Engineering @ IIT KGP (Expected 2027)",
   building   : ["Serverless GenAI products", "Event-driven backends", "Web3 tooling"],
   languages  : ["Python", "JavaScript", "TypeScript", "C++", "Solidity"],
-  currently  : "Architecting RAG pipelines on AWS Bedrock & shipping Aira 🚀",
-  hobbies    : ["DSA grinding", "Writing dev articles", "Shooting hoops 🏀"],
-  funFact    : "Civil engineer by degree, full-stack dev by passion — and proud of both 🤝"
+  currently  : "Architecting RAG pipelines on AWS Bedrock & shipping Aira",
+  hobbies    : ["DSA grinding", "Shooting hoops 🏀"],
+  funFact    : "Civil engineer by degree, full-stack dev by passion"
 };
 ```
 
