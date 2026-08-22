@@ -264,12 +264,6 @@ Great engineers are more than their stack — here's the stuff that keeps me hum
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankpandya&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=A78BFA&point=FFFFFF" alt="Contribution Graph" width="98%"/>
-</div>
-
-<br/>
-
-<div align="center">
 
 ### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/84fa4ff1-9bc1-4257-a56d-fe8f01d0fad4" /> GitHub Achievements
 
