@@ -285,22 +285,16 @@ Great engineers are more than their stack — here's the stuff that keeps me hum
 
 ---
 
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ff81c71d-4223-4866-944d-a83e5a2264c8" /> Let's Build Something
-
-<div align="center">
-
-I'm **open to full-time roles and meaningful collaborations** — especially around **serverless, GenAI, agentic systems, and developer tools**. If you're working on something hard and need a builder who cares about the details, drop me a line. I read every email.
-
 <a href="mailto:pandyashashank1@gmail.com">
-  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/35b80a23-7f6a-4685-b70e-6d92820416f6" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/35b80a23-7f6a-4685-b70e-6d92820416f6" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shashank-pandya-213366287/">
- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4bc78a71-60d6-45ad-b3d9-0195146888e8" />
+ <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/4bc78a71-60d6-45ad-b3d9-0195146888e8" />
 </a>
 &nbsp;
 <a href="https://portfolio-shashankpandya.vercel.app/">
-  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4fb1c0bc-1650-48ac-bec6-9d50b73d0316" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/4fb1c0bc-1650-48ac-bec6-9d50b73d0316" />
 </a>
 
 </div>
