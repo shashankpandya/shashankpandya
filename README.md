@@ -277,24 +277,21 @@ Great engineers are more than their stack — here's the stuff that keeps me hum
 
 ---
 
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/51cd43d3-531b-4f1c-b7ae-d0b543b46695" /> A Thought I Keep Coming Back To
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
 
----
-
+<div align="center">
 <a href="mailto:pandyashashank1@gmail.com">
-  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/35b80a23-7f6a-4685-b70e-6d92820416f6" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/35b80a23-7f6a-4685-b70e-6d92820416f6" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shashank-pandya-213366287/">
- <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/4bc78a71-60d6-45ad-b3d9-0195146888e8" />
+ <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4bc78a71-60d6-45ad-b3d9-0195146888e8" />
 </a>
 &nbsp;
 <a href="https://portfolio-shashankpandya.vercel.app/">
-  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/4fb1c0bc-1650-48ac-bec6-9d50b73d0316" />
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4fb1c0bc-1650-48ac-bec6-9d50b73d0316" />
 </a>
 
 </div>
