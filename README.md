@@ -281,33 +281,36 @@ Great engineers are more than their stack — here's the stuff that keeps me hum
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
 
-<div align="center">
-<a href="mailto:pandyashashank1@gmail.com">
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/35b80a23-7f6a-4685-b70e-6d92820416f6" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/shashank-pandya-213366287/">
- <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4bc78a71-60d6-45ad-b3d9-0195146888e8" />
-</a>
-&nbsp;
-<a href="https://portfolio-shashankpandya.vercel.app/">
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/4fb1c0bc-1650-48ac-bec6-9d50b73d0316" />
-</a>
-
-</div>
-
----
-
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6c94c211-7e5a-4091-b0b3-8e3e48285e3d" /> Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake.svg" />
 </picture>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:pandyashashank1@gmail.com">
+          <img src="https://github.com/user-attachments/assets/35b80a23-7f6a-4685-b70e-6d92820416f6" width="45"><br>Email
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/shashank-pandya-213366287/">
+          <img src="https://github.com/user-attachments/assets/4bc78a71-60d6-45ad-b3d9-0195146888e8" width="45"><br>LinkedIn
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://portfolio-shashankpandya.vercel.app/">
+          <img src="https://github.com/user-attachments/assets/4fb1c0bc-1650-48ac-bec6-9d50b73d0316" width="45"><br>Portfolio
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+<!--
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,22,25&height=120&section=footer" width="100%" alt="Footer wave"/>
 </div>
+-->
