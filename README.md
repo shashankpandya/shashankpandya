@@ -220,7 +220,7 @@ A trustless alternative to "Buy Me a Coffee" — supporters send **ETH** straigh
 
 | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1c81e87d-97a9-4224-800f-6ceae69beef7" /> Milestone | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/fa6f948b-3fef-44b3-bdd8-0e4ff702997d" /> Metric |
 |:---|:---|
-| **Codeforces** Pupil | ⭐ Peak rating **1390+** (`pandyashashank1`) |
+| **Codeforces** Specialist | ⭐ Peak rating **1532** (`pandyashashank1`) |
 | **CodeChef** 3-Star | ⭐ Peak rating **1709** · top **1.5%** globally (Starters 191) |
 | **CodeNite 2025** (IIT KGP) | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/06cc69ed-8745-4567-bd4f-4e2dad6f8a8e" /> Top **8.8%** of **20,000+** participants |
 | **DSA Practice** | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a62feee5-ba4c-4a85-9008-52ff73a075bc" /> **100+** algorithmic problems solved |
