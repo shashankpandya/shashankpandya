@@ -223,10 +223,12 @@ A trustless alternative to "Buy Me a Coffee" — supporters send **ETH** straigh
 | **Codeforces** Specialist | ⭐ Peak rating **1532** (`pandyashashank1`) |
 | **CodeChef** 3-Star | ⭐ Peak rating **1709** · top **1.5%** globally (Starters 191) |
 | **CodeNite 2025** (IIT KGP) | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/06cc69ed-8745-4567-bd4f-4e2dad6f8a8e" /> Top **8.8%** of **20,000+** participants |
-| **DSA Practice** | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a62feee5-ba4c-4a85-9008-52ff73a075bc" /> **100+** algorithmic problems solved |
+| **DSA Practice** | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a62feee5-ba4c-4a85-9008-52ff73a075bc" /> **450+** algorithmic problems solved |
+<!--
+---
 | **JNV Entrance 2015** |  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1431229c-daeb-4b4f-838c-5a6bd60c4b13" /> Top **1.3%** nationwide |
 | **Gujarat CET 2022** |  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1431229c-daeb-4b4f-838c-5a6bd60c4b13" /> Top **7%** of all candidates |
-
+-->
 </div>
 
 ---
