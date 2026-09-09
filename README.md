@@ -253,13 +253,9 @@ Great engineers are more than their stack — here's the stuff that keeps me hum
 
 ## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/be6dce27-bd22-4641-b7da-b96a7514ff4b" /> GitHub Analytics
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shashankpandya&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  </div>
   <div align="center">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashankpandya&theme=tokyonight&hide_border=true" alt="Top Languages by Repo" />
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashankpandya&theme=tokyonight&hide_border=true" alt="Most Productive Time" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shashankpandya&theme=tokyonight&hide_border=true" alt="Top Languages by Repo" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shashankpandya&theme=tokyonight&hide_border=true" alt="Most Productive Time" />
 </div>
 
 <br/>
