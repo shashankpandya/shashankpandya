@@ -123,11 +123,6 @@ A trustless alternative to "Buy Me a Coffee" — supporters send **ETH** straigh
 
 ---
 
----
-
-
----
-
 ## <img src="https://github.com/user-attachments/assets/1b051e22-19b3-4b53-b99b-a5867fb4a028" width="24" height="24" alt="" /> Competitive Programming
 
 | Platform | Result | Details |
