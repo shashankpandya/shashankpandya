@@ -4,10 +4,10 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,22,25&height=220&section=header&text=SHASHANK%20PANDYA&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20GenAI%20Engineer%20%C2%B7%20IIT%20Kharagpur&descSize=18&descAlignY=58&descColor=ffffff" width="100%" alt="Header banner"/>
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=940&height=100&lines=Building%20production-grade%20systems%20with%20Node.js%20%26%20React;Shipping%20GenAI%20products%20on%20AWS%20Serverless;Cracking%20DSA%20and%20growing%20the%20Web3%20community" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,22,25&height=200&section=header&text=Shashank%20Pandya&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20GenAI%20Engineer%20%C2%B7%20IIT%20Kharagpur&descSize=18&descAlignY=56&descColor=ffffff" width="100%" alt="Shashank Pandya" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Event-driven+backends+with+Node.js+%26+Python;Serverless+GenAI+on+AWS+Bedrock;Smart+contracts+in+Solidity;Codeforces+Specialist+%C2%B7+CodeChef+3%E2%98%85" alt="Typing SVG" />
+
 </div>
 
 <br/>
@@ -24,126 +24,20 @@
 
 ---
 
-## 👋 About Me
+### Hi, I'm Shashank 👋
 
-```javascript
+I'm a full-stack and GenAI engineer at **IIT Kharagpur**. My degree says *Civil Engineering*; my commit history says **event-driven backends, serverless GenAI on AWS, and Web3**. I build systems that hold up under real load, stay cheap to run, and stay readable for the next engineer, and I keep my fundamentals sharp through rated contests on Codeforces and CodeChef.
+
+```ts
 const shashank = {
-  location   : "IIT Kharagpur, India 🇮🇳",
-  degree     : "B.Tech (Hons.) Civil Engineering @ IIT KGP (Expected 2027)",
-  building   : ["Serverless GenAI products", "Event-driven backends", "Web3 tooling"],
-  languages  : ["Python", "JavaScript", "TypeScript", "C++", "Solidity"],
-  currently  : "Architecting RAG pipelines on AWS Bedrock & shipping Aira",
-  hobbies    : ["DSA grinding", "Shooting hoops"],
-  funFact    : "Civil engineer by degree, full-stack dev by passion"
-};
+  role:      "Full-Stack & GenAI Engineer",
+  education: "B.Tech (Hons.) Civil Engineering · IIT Kharagpur · 2027",
+  languages: ["Python", "TypeScript", "JavaScript", "C++", "Solidity"],
+  interests: ["Serverless", "Event-driven systems", "RAG / Agentic AI", "Web3"],
+} as const;
 ```
 
-I'm a full-stack developer at **IIT Kharagpur** — but the "Civil Engineering" degree is the plot twist, not the main story. Most of my time goes into **event-driven backends**, **GenAI products on AWS**, and **Web3 community building**. I care more about systems that *hold up in production at 1k+ concurrent users* than code that just runs on my machine.
-
-When I'm not pushing to `main`, you'll find me on **Leetcode** grinding rated contests, Exploring things in blockchain, or running pick-up games on the hall court.
-
 ---
-
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1431229c-daeb-4b4f-838c-5a6bd60c4b13" /> What I'm Focused On Right Now
-
-<table>
-  <tr>
-    <td><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/31944954-4937-4a6f-88d4-2b5fc841c566" />
-</td>
-    <td><b>Shipping Aira</b> — a serverless AI interview coach that handles 1,000+ concurrent users at ~$1.31/user/month</td>
-  </tr>
-  <tr>
-    <td><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/671cf912-a2fb-44e6-9479-0247c85550b7" />
-</td>
-    <td><b>Deepening expertise</b> in AWS Bedrock, LangChain, agentic AI & event-driven architecture</td>
-  </tr>
-  <tr>
-    <td><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/41e3d623-9f6f-4034-aea0-4356bffade91" />
-</td>
-    <td><b>Looking to collaborate</b> on production-grade GenAI / RAG / serverless systems</td>
-  </tr>
-  <tr>
-    <td><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/99fb06d0-ae37-48f9-9601-208a86f072a7" />
-</td>
-    <td><b>Ask me about</b> AWS Lambda, serverless design, competitive programming, or smart contracts</td>
-  </tr>
-</table>
-
----
-
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9f9de277-b129-4031-8d1a-1ac731b1f3b7" /> Tech Stack & Tools
-
-<details open>
-<summary><b><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/486e9c87-c92d-4d3a-b211-5f99f917f963" />
- Languages I write code in</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/650461f6-164d-4288-b06c-087be26a0d6a" />
- Frontend</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/96d9a5e1-c17d-415f-8a03-79385d3b876e" />
- Backend & APIs</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/54ed43a4-c8bb-433f-8f05-dde2199d513e" />
- Cloud, DevOps & AI</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=black" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-8A2BE2?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-</details>
-
-<details>
-<summary><b><img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ac0f054f-b9d5-47f6-908d-a675c3367c1a" />
- Databases</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
-</p>
-</details>
-
----
-
 ## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/616df735-e8ca-432c-8c71-96073e3f6f7a" /> Featured Projects
 
 ### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d96a234f-4aa4-46f3-bd10-1d1f4cf8c60c" /> [Aira — AI Technical Interview Coach](https://github.com/shashankpandya/Aira)
@@ -211,45 +105,49 @@ A trustless alternative to "Buy Me a Coffee" — supporters send **ETH** straigh
 </p>
 
 </div>
+<p align="right"><a href="https://github.com/shashankpandya?tab=repositories">See all repositories →</a></p>
 
 ---
 
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1b051e22-19b3-4b53-b99b-a5867fb4a028" /> Achievements & Recognition
+## <img src="https://github.com/user-attachments/assets/9f9de277-b129-4031-8d1a-1ac731b1f3b7" width="24" height="24" alt="" /> Tech Stack
 
-<div align="center">
-
-| <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1c81e87d-97a9-4224-800f-6ceae69beef7" /> Milestone | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/fa6f948b-3fef-44b3-bdd8-0e4ff702997d" /> Metric |
-|:---|:---|
-| **Codeforces** Specialist | ⭐ Peak rating **1532** (`pandyashashank1`) |
-| **CodeChef** 3-Star | ⭐ Peak rating **1709** · top **1.5%** globally (Starters 191) |
-| **CodeNite 2025** (IIT KGP) | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/06cc69ed-8745-4567-bd4f-4e2dad6f8a8e" /> Top **8.8%** of **20,000+** participants |
-| **DSA Practice** | <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a62feee5-ba4c-4a85-9008-52ff73a075bc" /> **450+** algorithmic problems solved |
-<!--
----
-| **JNV Entrance 2015** |  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1431229c-daeb-4b4f-838c-5a6bd60c4b13" /> Top **1.3%** nationwide |
-| **Gujarat CET 2022** |  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1431229c-daeb-4b4f-838c-5a6bd60c4b13" /> Top **7%** of all candidates |
--->
-</div>
+| Domain | Technologies |
+|:--|:--|
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000" alt="C" /> <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" /> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST APIs" /> |
+| **Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" /> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=black" alt="AWS Lambda" /> <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" alt="Amazon S3" /> <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white" alt="EventBridge" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" /> |
+| **GenAI** | <img src="https://img.shields.io/badge/Amazon_Bedrock-8A2BE2?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon Bedrock" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Google Gemini" /> <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG" /> |
+| **Web3** | <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=000" alt="Hardhat" /> <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" alt="Ethers.js" /> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" alt="Web3.js" /> |
+| **Databases** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" /> |
 
 ---
 
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/a5721585-2abd-4880-9493-cbe177ab2663" /> Leadership & Community
+---
 
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/cc870b5b-3369-42ef-bc89-64f4ff0edbc5" /> **Team Lead — Aira** · Led a cross-functional team to architect & ship a scalable GenAI product for the **AWS AI for Bharat Hackathon**
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/441a6be3-4494-4daa-8570-0ff0dd1b480d" /> **Blockchain Head @ KodeinKGP** · Spearheading Web3 curriculum & hackathons for a community of **40+ members**
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6dea35f3-e4ef-4301-8a98-5884e94dcac3" /> **Core Team — Megalith 2025** · Coordinated a **15-member web team** that delivered **10 events** & drove **25% participation growth**
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ee538012-a508-4176-95c2-7271c9883879" /> **Dev Writer** · Authoring beginner-friendly blockchain & dev articles on **Medium** for the KodeinKGP community
 
 ---
 
-## <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7903724a-79e3-4d7c-be94-7f6b5d0a6fd6" /> Beyond the Code
+## <img src="https://github.com/user-attachments/assets/1b051e22-19b3-4b53-b99b-a5867fb4a028" width="24" height="24" alt="" /> Competitive Programming
 
-Great engineers are more than their stack — here's the stuff that keeps me human:
+| Platform | Result | Details |
+|:--|:--|:--|
+| **Codeforces** | Specialist | peak **1532**  |
+| **CodeChef** | 3★ · peak **1709** | Top **1.5%** globally in Starters 191 |
+| **CodeNite 2025** (IIT KGP) | Top **8.8%** | Out of 20,000+ participants |
+| **Problem solving** | **450+** solved | Algorithmic problems across platforms |
 
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/02096eff-061f-4a6a-92d6-103452af6fad" /> **Gold** at the Inter-Hall Basketball Tournament — I take defence as seriously as I take system design
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/eda8c8ba-4c3c-4d54-b786-80ff786c391f" /> **NCC training and camps** — discipline, leadership, and the occasional 5 AM drill
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ba1aa51e-13a7-4936-ac9f-9410a650bb66" /> **2nd place** at the Inter-Hall Rangoli Competition — yes, the civil engineer in me does show up sometimes
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/841012e3-b2ef-4709-b13f-eba74e056824" /> **Active in student dev communities** — mentorship, code reviews, and a lot of late-night debugging sessions
+---
+
+## <img src="https://github.com/user-attachments/assets/a5721585-2abd-4880-9493-cbe177ab2663" width="24" height="24" alt="" /> Leadership & Community
+
+- **Team Lead, Aira:** led a cross-functional team to architect and ship a scalable GenAI product for the AWS AI for Bharat Hackathon
+- **Blockchain Head, KodeinKGP:** running the Web3 curriculum and hackathons for a 40+ member community, and writing beginner-friendly blockchain articles on Medium
+- **Core Team, Megalith 2025:** coordinated a 15-member web team that delivered 10 events and drove 25% participation growth
+
+## <img src="https://github.com/user-attachments/assets/7903724a-79e3-4d7c-be94-7f6b5d0a6fd6" width="24" height="24" alt="" /> Beyond the Code
+
+🏀 **Gold**, Inter-Hall Basketball &nbsp;·&nbsp; 🎖️ **NCC** cadet &nbsp;·&nbsp; 🎨 **2nd place**, Inter-Hall Rangoli &nbsp;·&nbsp; 🤝 Mentor in student dev communities
 
 ---
 
@@ -274,11 +172,11 @@ Great engineers are more than their stack — here's the stuff that keeps me hum
 </div>
 
 ---
-
+<!--
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
-
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashankpandya/shashankpandya/output/github-snake.svg" />
