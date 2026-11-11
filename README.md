@@ -183,17 +183,17 @@ A trustless alternative to "Buy Me a Coffee" — supporters send **ETH** straigh
     <tr>
       <td align="center">
         <a href="mailto:pandyashashank1@gmail.com">
-          <img src="https://github.com/user-attachments/assets/35b80a23-7f6a-4685-b70e-6d92820416f6" width="45"><br>Email
+          <img src="https://github.com/user-attachments/assets/35b80a23-7f6a-4685-b70e-6d92820416f6" width="45">
         </a>
       </td>
       <td align="center">
         <a href="https://www.linkedin.com/in/shashank-pandya-213366287/">
-          <img src="https://github.com/user-attachments/assets/4bc78a71-60d6-45ad-b3d9-0195146888e8" width="45"><br>LinkedIn
+          <img src="https://github.com/user-attachments/assets/4bc78a71-60d6-45ad-b3d9-0195146888e8" width="45">
         </a>
       </td>
       <td align="center">
         <a href="https://portfolio-shashankpandya.vercel.app/">
-          <img src="https://github.com/user-attachments/assets/4fb1c0bc-1650-48ac-bec6-9d50b73d0316" width="45"><br>Portfolio
+          <img src="https://github.com/user-attachments/assets/4fb1c0bc-1650-48ac-bec6-9d50b73d0316" width="45">
         </a>
       </td>
     </tr>
