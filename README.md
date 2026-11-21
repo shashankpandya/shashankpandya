@@ -6,11 +6,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,22,25&height=200&section=header&text=Shashank%20Pandya&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20GenAI%20Engineer%20%C2%B7%20IIT%20Kharagpur&descSize=18&descAlignY=56&descColor=ffffff" width="100%" alt="Shashank Pandya" />
 
+<!--
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=Event-driven+backends+with+Node.js+%26+Python;Serverless+GenAI+on+AWS+Bedrock;Smart+contracts+in+Solidity;Codeforces+Specialist+%C2%B7+CodeChef+3%E2%98%85" alt="Typing SVG" />
-
+-->
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -25,14 +24,14 @@
 ---
 
 ### Hi, I'm Shashank 👋
-
+<!--
 I'm a full-stack and GenAI engineer at **IIT Kharagpur**. My degree says *Civil Engineering*; my commit history says **event-driven backends, serverless GenAI on AWS, and Web3**. I build systems that hold up under real load, stay cheap to run, and stay readable for the next engineer, and I keep my fundamentals sharp through rated contests on Codeforces and CodeChef.
-
+-->
 ```ts
 const shashank = {
   role:      "Full-Stack & GenAI Engineer",
   education: "B.Tech (Hons.) Civil Engineering · IIT Kharagpur · 2027",
-  languages: ["Python", "TypeScript", "JavaScript", "C++", "Solidity"],
+  languages: ["Python", "TypeScript", "JavaScript", "C++", "Solidity", "SQL"],
   interests: ["Serverless", "Event-driven systems", "RAG / Agentic AI", "Web3"],
 } as const;
 ```
@@ -89,6 +88,7 @@ The official event-management platform for **IIT Kharagpur's largest technical f
   <img src="https://img.shields.io/badge/My_role-Backend_%2B_admin_dashboard-22C55E?style=flat-square" />
 </p>
 
+<!--
 ---
 
 ### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2ef8a0a4-1562-4e49-9dd0-f990debf9888" /> [BuyChai — Decentralised Creator Support](https://github.com/shashankpandya/BuyChai)
@@ -103,7 +103,7 @@ A trustless alternative to "Buy Me a Coffee" — supporters send **ETH** straigh
   <img src="https://img.shields.io/badge/Logic-100%25_on--chain-22C55E?style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Live_on_Vercel-22C55E?style=flat-square" />
 </p>
-
+-->
 </div>
 <p align="right"><a href="https://github.com/shashankpandya?tab=repositories">See all repositories →</a></p>
 
@@ -122,7 +122,7 @@ A trustless alternative to "Buy Me a Coffee" — supporters send **ETH** straigh
 | **Databases** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" /> |
 
 ---
-
+<!--
 ## <img src="https://github.com/user-attachments/assets/1b051e22-19b3-4b53-b99b-a5867fb4a028" width="24" height="24" alt="" /> Competitive Programming
 
 | Platform | Result | Details |
@@ -131,15 +131,15 @@ A trustless alternative to "Buy Me a Coffee" — supporters send **ETH** straigh
 | **CodeChef** | 3★ · peak **1709** | Top **1.5%** globally in Starters 191 |
 | **CodeNite 2025** (IIT KGP) | Top **8.8%** | Out of 20,000+ participants |
 | **Problem solving** | **450+** solved | Algorithmic problems across platforms |
-
+-->
 ---
-
+<!--
 ## <img src="https://github.com/user-attachments/assets/a5721585-2abd-4880-9493-cbe177ab2663" width="24" height="24" alt="" /> Leadership & Community
 
 - **Team Lead, Aira:** led a cross-functional team to architect and ship a scalable GenAI product for the AWS AI for Bharat Hackathon
 - **Blockchain Head, KodeinKGP:** running the Web3 curriculum and hackathons for a 40+ member community, and writing beginner-friendly blockchain articles on Medium
 - **Core Team, Megalith 2025:** coordinated a 15-member web team that delivered 10 events and drove 25% participation growth
-
+-->
 ## <img src="https://github.com/user-attachments/assets/7903724a-79e3-4d7c-be94-7f6b5d0a6fd6" width="24" height="24" alt="" /> Beyond the Code
 
 🏀 **Gold**, Inter-Hall Basketball &nbsp;·&nbsp; 🎖️ **NCC** cadet &nbsp;·&nbsp; 🎨 **2nd place**, Inter-Hall Rangoli &nbsp;·&nbsp; 🤝 Mentor in student dev communities
