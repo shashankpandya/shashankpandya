@@ -73,7 +73,7 @@ A full-stack dashboard with a **React + Vite** frontend, **Node.js** backend, an
 </p>
 
 ---
-
+<!--
 ### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b4d5e639-35f0-4b58-80af-6ff34552f550" /> [Megalith 2025 — College Fest Platform](https://github.com/1mansri/Megalith-2025)
 > **One dashboard, 10 events, 500+ active users. Built by a 15-member web team.**
 
@@ -88,6 +88,7 @@ The official event-management platform for **IIT Kharagpur's largest technical f
   <img src="https://img.shields.io/badge/My_role-Backend_%2B_admin_dashboard-22C55E?style=flat-square" />
 </p>
 
+-->
 <!--
 ---
 
