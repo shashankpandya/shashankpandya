@@ -122,7 +122,6 @@ A trustless alternative to "Buy Me a Coffee" — supporters send **ETH** straigh
 | **Web3** | <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=ethereum&logoColor=000" alt="Hardhat" /> <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" alt="Ethers.js" /> <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" alt="Web3.js" /> |
 | **Databases** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" /> |
 
----
 <!--
 ## <img src="https://github.com/user-attachments/assets/1b051e22-19b3-4b53-b99b-a5867fb4a028" width="24" height="24" alt="" /> Competitive Programming
 
